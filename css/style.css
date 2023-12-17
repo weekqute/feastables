@@ -1,0 +1,221 @@
+.header
+{
+	background: #2C2C2C;
+	padding: 36px;
+}
+.container
+{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+.container_header
+{
+	display: flex;
+	align-items: center;
+}
+.nav_list
+{
+	display: flex;
+	list-style: none;
+}
+.header_title
+{
+	color: #FFF;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right: auto;
+}
+.nav_link
+{
+	color: #FFF;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+margin-right: 70px;
+}
+.nav_link:hover
+{
+	color: aqua;
+}
+.hero-block_button:hover
+{
+	color: aqua;
+}
+.hero-block
+{
+	background: #FFABED;
+}
+.hero-block_title
+{
+	color: #E4E4E4;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-block_text
+{
+	color: #E4E4E4;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-block_button
+{
+	width: 224px;
+height: 47px;
+flex-shrink: 0;
+border-radius: 6px;
+background: var(--orange, linear-gradient(87deg, #E2A300 4.47%, #E29500 95.53%));
+box-shadow: 0px 2px 13px 0px rgba(226, 158, 0, 0.48);
+color: #000;
+font-family: 'Permanent Marker', cursive;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container_hero-block
+{
+	display: flex;
+	justify-content: space-between;
+}
+.hero-block_content
+{
+	width: 453px;
+}
+.skills_full
+{
+	width: 356px;
+height: 10px;
+background: #222;
+}
+.skills_done
+{
+	width: 287px;
+height: 10px;
+background: #00C4F0;
+}
+.about
+{
+	background: #FFAAB9;
+	padding: 20px;
+}
+.about_content
+{
+	display: flex;
+	align-items: center;
+	color: #E4E4E4;
+	font-family: 'Permanent Marker', cursive;
+}
+.about_title
+{
+	text-align: center;
+	color: #E4E4E4;
+	font-family: 'Permanent Marker', cursive;
+}
+.skills_list
+{
+	list-style: none;
+}
+.skills_title
+{
+	color: #E4E4E4;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.skils_name
+{
+	color: #E4E4E4;
+
+font-family: 'Permanent Marker', cursive;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.video
+{
+background: #FFAAB9;
+padding: 20px;
+}
+.video_title
+{
+		text-align: center;
+	color: #E4E4E4;
+	font-family: 'Permanent Marker', cursive;
+}
+.gallery_list
+{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	
+}
+.gallery_item
+{
+	width: 33%;
+}
+.gallery_img
+{
+	width: 100%;
+}
+.gallery
+{
+	background: #FFAAB9;
+	padding: 20px;
+}
+.gallery_title
+{
+		text-align: center;
+	color: #E4E4E4;
+	font-family: 'Permanent Marker', cursive;
+}
+.footer
+{
+	background: #FFAAB9;
+	padding: 20px;
+}
+.footer_list
+{
+	list-style: none;
+	display: flex;
+}
+.footer_title
+{
+	color: #E4E4E4;
+	font-family: 'Permanent Marker', cursive;
+
+}
+.footer_text
+{
+	color: #E4E4E4;
+	font-family: 'Aldrich', sans-serif;
+}
+.container_footer
+{
+	display: flex;
+	justify-content: space-between;
+}
+.footer_item
+{
+	margin-right: 40px;
+}
